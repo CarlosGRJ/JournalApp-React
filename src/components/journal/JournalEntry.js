@@ -8,7 +8,7 @@ export const JournalEntry = () => {
         style={{
           backgroundSize: 'cover',
           backgroundImage:
-            'url(https://cdn.shopify.com/s/files/1/1619/4221/products/HBE90816_1024x1024@2x.jpg?v=1597958367)',
+            'url(https://images.pexels.com/photos/2670898/pexels-photo-2670898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)',
         }}></div>
 
       <div className='journal__entry-body'>
