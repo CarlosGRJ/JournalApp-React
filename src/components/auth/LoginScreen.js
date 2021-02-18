@@ -46,10 +46,7 @@ export const LoginScreen = () => {
           value={password}
           onChange={handleInputChange}
         />
-        <button
-          type='submit'
-          className='btn btn-primary btn-block'
-          disabled={false}>
+        <button type='submit' className='btn btn-primary btn-block'>
           Login
         </button>
         <hr />
